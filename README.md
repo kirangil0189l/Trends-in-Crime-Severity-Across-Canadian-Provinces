@@ -37,7 +37,8 @@ How to Use
 2. Navigate between dashboards using buttons.
 3. Use filters to explore data by year or province.
 
-Contact
-Created by: Sukhkirandeep Kaur Sidhu  
+Author
+**Sukhkirandeep Kaur Sidhu**
+sukhkirandeep.kaur@gmail.com
 Location: Ontario, Canada  
 
